@@ -8,13 +8,13 @@ import NoQuotesFound from "../quotes/NoQuotesFound";
 const DUMMYQ = [
   {
     id: "q1",
-    author: "Filo",
-    text: "jjjjj",
+    author: "Autor 1",
+    text: "Test autor 1",
   },
   {
     id: "q2",
-    author: "FilaDaKila",
-    text: "kkkkkk",
+    author: "Autor 2",
+    text: "Test autor 2",
   },
 ];
 
